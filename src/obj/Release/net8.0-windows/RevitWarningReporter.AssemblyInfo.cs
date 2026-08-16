@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2026 Arman Arisman")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+ee2c1256aa63c50176eb20fd620470675b968633")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+b9abb6c718c12fd3472ec0e1c06e87efbb12386a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Revit Warning Reporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Revit Warning Reporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
