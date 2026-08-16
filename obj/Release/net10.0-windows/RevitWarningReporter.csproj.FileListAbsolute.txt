@@ -1,0 +1,13 @@
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\RevitWarningReporter.csproj.AssemblyReference.cache
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\RevitWarningReporter.GeneratedMSBuildEditorConfig.editorconfig
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\RevitWarningReporter.AssemblyInfoInputs.cache
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\RevitWarningReporter.AssemblyInfo.cs
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\RevitWarningReporter.csproj.CoreCompileInputs.cache
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\RevitWarningReporter.sourcelink.json
+F:\core\projects\github\revit-warning-reporter\bin\Release\net10.0-windows\RevitWarningReporter.deps.json
+F:\core\projects\github\revit-warning-reporter\bin\Release\net10.0-windows\RevitWarningReporter.dll
+F:\core\projects\github\revit-warning-reporter\bin\Release\net10.0-windows\RevitWarningReporter.pdb
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\RevitWarningReporter.dll
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\refint\RevitWarningReporter.dll
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\RevitWarningReporter.pdb
+F:\core\projects\github\revit-warning-reporter\obj\Release\net10.0-windows\ref\RevitWarningReporter.dll

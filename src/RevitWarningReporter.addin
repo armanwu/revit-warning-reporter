@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Revit Warning Reporter</Name>
+    <Assembly>RevitWarningReporter\RevitWarningReporter.dll</Assembly>
+    <FullClassName>RevitWarningReporter.App</FullClassName>
+    <ClientId>4a9f2b8e-1c3d-4e5f-8a9b-7c6d5e4f3a21</ClientId>
+    <VendorId>PENTA</VendorId>
+    <VendorDescription>Penta Tools - BIM Quality Control Add-ins</VendorDescription>
+  </AddIn>
+</RevitAddIns>
