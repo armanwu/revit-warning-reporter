@@ -11,3 +11,7 @@ F:\core\projects\github\revit-warning-reporter\src\obj\Release\net8.0-windows\Re
 F:\core\projects\github\revit-warning-reporter\src\obj\Release\net8.0-windows\refint\RevitWarningReporter.dll
 F:\core\projects\github\revit-warning-reporter\src\obj\Release\net8.0-windows\RevitWarningReporter.pdb
 F:\core\projects\github\revit-warning-reporter\src\obj\Release\net8.0-windows\ref\RevitWarningReporter.dll
+F:\core\projects\github\revit-warning-reporter\src\bin\Release\net8.0-windows\resources\icon64.png
+F:\core\projects\github\revit-warning-reporter\src\bin\Release\net8.0-windows\resources\icon128.png
+F:\core\projects\github\revit-warning-reporter\src\bin\Release\net8.0-windows\resources\icon16.png
+F:\core\projects\github\revit-warning-reporter\src\bin\Release\net8.0-windows\resources\icon32.png

@@ -33,6 +33,11 @@ if exist "src\RevitWarningReporter.csproj" (
     ) else if exist "src\bin\Release\net8.0-windows\RevitWarningReporter.dll" (
         xcopy /Y /Q "src\bin\Release\net8.0-windows\*.*" "package\RevitWarningReporter\" >nul
     )
+
+    if exist "resources" (
+        if not exist "package\RevitWarningReporter\resources" mkdir "package\RevitWarningReporter\resources"
+        xcopy /Y /Q /E "resources\*.*" "package\RevitWarningReporter\resources\" >nul
+    )
 )
 
 echo.
@@ -68,7 +73,7 @@ echo Manifest : %TARGET_DIR%\RevitWarningReporter.addin
 echo Assembly : %TARGET_DIR%\RevitWarningReporter\
 echo.
 echo Please start/restart Autodesk Revit 2027.
-echo The "Warning Exporter" button is located under the "Add-Ins" tab.
+echo The "Export to CSV" button is located under the "Warning Reporter" panel on the "Add-Ins" tab.
 echo ========================================================
 echo.
 pause
