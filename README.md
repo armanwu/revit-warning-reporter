@@ -38,10 +38,6 @@ Revit Warning Reporter is an Autodesk Revit 2027 add-in (.NET 8 / .NET 10) that 
 
 To remove the add-in, double-click `Uninstall.bat`.
 
-## Acknowledgments
-
-Developed with AI assistance from **Google Gemini** and **Google Antigravity**.
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Copyright (c) 2026 Arman Arisman. Licensed under the [MIT License](LICENSE).
